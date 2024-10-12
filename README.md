@@ -11,10 +11,10 @@
 @Abram Pierce (on Slack)
 
 ## Team "FourksUp"
-- [Team Member 1](GitHub profile link)
-- [Team Member 2](GitHub profile link)
-- [Team Member 3](GitHub profile link)
-<!-- Add all team members -->
+- Seth Rojas (GitHub profile link)
+- Quinlan Harris (GitHub profile link)
+- Abram Pierce (GitHub profile link)
+- Joshua Bunnell (GitHub profile link)
 
 ## Project Overview
 Brief description of your project and its goals.

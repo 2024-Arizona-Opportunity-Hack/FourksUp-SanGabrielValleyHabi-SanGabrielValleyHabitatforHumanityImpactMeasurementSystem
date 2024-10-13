@@ -2,7 +2,7 @@ import time
 import json
 import requests
 
-with open("creentials.json") as f:
+with open("credentials.json") as f:
     config = json.load(f)
 
 # Define your endpoint and API key
@@ -44,7 +44,8 @@ if response.status_code == 202:
 
     # Once the status is "succeeded", you can get the results
     print("Processing complete!")
-    print(json.dumps(result, indent=2))
+    with open("ouput.json", "w") as f:
+        json.dump(result, f, indent=2)
 
 else:
     print(f"Error: {response.status_code}, {response.text}")

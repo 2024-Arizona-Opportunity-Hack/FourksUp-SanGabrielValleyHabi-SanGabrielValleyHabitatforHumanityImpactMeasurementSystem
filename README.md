@@ -10,16 +10,13 @@
 - Abram Pierce 
 - Joshua Bunnell 
 
-## [San Gabriel Valley Habitat for Humanity Mission Statement](https://sgvhabitat.org/) 
-Seeking to put God's love into action, Habitat for Humanity brings people together to build homes, communities, and hope. We build strength and self-reliance through shelter.
-
 ## Project Introduction 
-San Gabriel Valley Habitat for Humanity is a low-income housing and community revitalization nonprofit organization that relies on efficient survey automation and intutive data analysis to improve its outreach. Their current system lacks a complete, customizable, user friendly hub that quantifies impact, displays critical feedback, and merges existing data. Utilizing various Google services, we created a web application that will streamline SGVH's future data collection and analysis and allow them to better track metrics and expand their services.
+[San Gabriel Valley Habitat for Humanity](https://sgvhabitat.org/)  is a low-income housing and community revitalization nonprofit organization that relies on efficient survey automation and intutive data analysis to improve its outreach. Their current system lacks a complete, customizable, user friendly hub that quantifies impact, displays critical feedback, and merges existing data. Utilizing various Google services, we created a web application that will streamline SGVH's future data collection and analysis and allow them to better track metrics and expand their services.
 
 ## Project Links
 - [Website](https://sites.google.com/view/sgvh-ohack/home?authuser=3)
 - [Colab Notebook AI Tool Demo](https://github.com/2024-Arizona-Opportunity-Hack/FourksUp-SanGabrielValleyHabi-SanGabrielValleyHabitatforHumanityImpactMeasurementSystem/blob/main/Extract_Image_Data.ipynb)
-- [Slideshow Demo]()
+- [Slideshow Demo](https://docs.google.com/presentation/d/1F9AuPJ5EkkQhXMyPwh69T-XTsrCUzgFj2Kidv3TpEaM/edit?usp=sharing)
 - [Project Demo]()
 - [DevPost]()
 

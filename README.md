@@ -1,8 +1,8 @@
 
 # FourksUp (Team #4)
-- Opportunity Hack: [Fall 2024](https://www.ohack.dev/hack/2024_fall)
+- Opportunity Hack:   [Fall 2024](https://www.ohack.dev/hack/2024_fall)
 - Non Profit Partner: [San Gabriel Valley Habitat for Humanity](https://sgvhabitat.org/)
-- Slack Channel: [#FourksUp](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
+- Slack Channel:      [#FourksUp](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
 
 ## Hackers
 - Seth Rojas

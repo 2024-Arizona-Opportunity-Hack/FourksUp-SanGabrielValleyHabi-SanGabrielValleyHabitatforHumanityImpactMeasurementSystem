@@ -10,8 +10,8 @@
 - Abram Pierce 
 - Joshua Bunnell 
 
-## [About](https://sgvhabitat.org/) San Gabriel Valley Habitat for Humanity
-Mission Statement: Seeking to put God's love into action, Habitat for Humanity brings people together to build homes, communities, and hope. We build strength and self-reliance through shelter.
+## [San Gabriel Valley Habitat for Humanity Mission Statement](https://sgvhabitat.org/) 
+Seeking to put God's love into action, Habitat for Humanity brings people together to build homes, communities, and hope. We build strength and self-reliance through shelter.
 
 ## Project Introduction 
 San Gabriel Valley Habitat for Humanity is a low-income housing and community revitalization nonprofit organization that relies on efficient survey automation and intutive data analysis to improve its outreach. Their current system lacks a complete, customizable, user friendly hub that quantifies impact, displays critical feedback, and merges existing data. Utilizing various Google services, we created a web application that will streamline SGVH's future data collection and analysis and allow them to better track metrics and expand their services.

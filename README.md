@@ -1,23 +1,29 @@
 
-# 2024_fall Hackathon Project
+# FourksUp (Team #4)
+### Opportunity Hack Fall 2024
 
-## Quick Links
-- [Hackathon Details](https://www.ohack.dev/hack/2024_fall)
-- [Team Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
-- [Nonprofit Partner](https://ohack.dev/nonprofit/FUSQQIaQF70ocwcatH9T)
-- [Problem Statement](https://ohack.dev/project/pcDVx7FAHQvZSViHbgS7)
-
-## Creator
-@Abram Pierce (on Slack)
-
-## Team "FourksUp"
+## Hackers
 - Seth Rojas (GitHub profile link)
 - Quinlan Harris (GitHub profile link)
 - Abram Pierce (GitHub profile link)
 - Joshua Bunnell (GitHub profile link)
 
-## Project Overview
-Brief description of your project and its goals.
+## About San Gabriel Valley Habitat for Humanity
+Website: (https://sgvhabitat.org/)
+Mission statement: Seeking to put God's love into action, Habitat for Humanity brings people together to build homes, communities, and hope. We build strength and self-reliance through shelter.
+
+## Project Introduction
+San Gabriel Valley Habitat for Humanity is a homeless housing nonprofit organization that relies on efficient survey automation and intutive data analysis to improve its outreach. Their current system lacks a complete, customizable, user friendly hub that quantifies impact, displays critical feedback, and merges existing data. Utilizing various Google services, we created a web application that will streamline SGVH's data analysis services and outreach.
+
+## Technologies Used
+| Technologies   | Usage |
+| -------- | ------- |
+| Microsoft Azure AI, Python| REST API, Computer Vision  |
+| Looker Studio | Data visualization |
+| Google Forms    | User survey   |
+| Google Sheets   | Database  |
+| Google Sites    | Organization dashboard |
+
 
 ## Tech Stack
 - Frontend: 
@@ -28,7 +34,6 @@ Brief description of your project and its goals.
 
 
 ## Getting Started
-Instructions on how to set up and run your project locally.
 
 ```bash
 # Example commands
@@ -66,3 +71,10 @@ Examples of stellar readmes:
 - ✨ [2020 Team 4](https://github.com/2020-opportunity-hack/Team-04)
 - ✨ [2020 Team 8](https://github.com/2020-opportunity-hack/Team-08)
 - ✨ [2020 Team 12](https://github.com/2020-opportunity-hack/Team-12)
+
+## Quick Links
+- [Hackathon Details](https://www.ohack.dev/hack/2024_fall)
+- [Team Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
+- [Nonprofit Partner](https://ohack.dev/nonprofit/FUSQQIaQF70ocwcatH9T)
+- [Problem Statement](https://ohack.dev/project/pcDVx7FAHQvZSViHbgS7)
+

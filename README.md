@@ -1,7 +1,8 @@
 
 # FourksUp (Team #4)
-- Opportunity Hack Fall 2024
-- [Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
+- Opportunity Hack: [Fall 2024](https://www.ohack.dev/hack/2024_fall)
+- Non Profit Partner: [San Gabriel Valley Habitat for Humanity](https://sgvhabitat.org/)
+- Slack Channel: [#FourksUp](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
 
 ## Hackers
 - Seth Rojas
@@ -19,7 +20,9 @@ San Gabriel Valley Habitat for Humanity is a low-income housing and community re
 
 ## Project Links
 Demostration: LINK TO COME
+
 DevPost: LINK TO COME
+
 Slideshow: LINK TO COME
 
 ## Technologies Used
@@ -37,7 +40,7 @@ Slideshow: LINK TO COME
 - Frontend: Looker Studio, Google Sites, Google Forms
 - Backend: Google Sites
 - Database: Google Sheets
-- APIs: Microsoft Azure API
+- APIs: Microsoft Azure AI
 <!-- Add/modify as needed -->
 
 ## Getting Started
@@ -87,8 +90,5 @@ Examples of stellar readmes:
 - ✨ [2020 Team 12](https://github.com/2020-opportunity-hack/Team-12)
 
 ## Quick Links
-- [Hackathon Details](https://www.ohack.dev/hack/2024_fall)
-- [Team Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
-- [Nonprofit Partner](https://ohack.dev/nonprofit/FUSQQIaQF70ocwcatH9T)
 - [Problem Statement](https://ohack.dev/project/pcDVx7FAHQvZSViHbgS7)
 

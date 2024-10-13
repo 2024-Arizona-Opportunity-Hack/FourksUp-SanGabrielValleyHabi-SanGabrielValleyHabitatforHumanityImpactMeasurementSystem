@@ -1,6 +1,7 @@
 
 # FourksUp (Team #4)
-Opportunity Hack Fall 2024
+- Opportunity Hack Fall 2024
+- Slack Channel: [Team Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
 
 ## Hackers
 - Seth Rojas
@@ -9,12 +10,17 @@ Opportunity Hack Fall 2024
 - Joshua Bunnell 
 
 ## About San Gabriel Valley Habitat for Humanity
-Website: (https://sgvhabitat.org/)
+Website: [](https://sgvhabitat.org/)
 
-Mission statement: Seeking to put God's love into action, Habitat for Humanity brings people together to build homes, communities, and hope. We build strength and self-reliance through shelter.
+SGVH Mission Statement: Seeking to put God's love into action, Habitat for Humanity brings people together to build homes, communities, and hope. We build strength and self-reliance through shelter.
 
 ## Project Introduction
-San Gabriel Valley Habitat for Humanity is a homeless housing nonprofit organization that relies on efficient survey automation and intutive data analysis to improve its outreach. Their current system lacks a complete, customizable, user friendly hub that quantifies impact, displays critical feedback, and merges existing data. Utilizing various Google services, we created a web application that will streamline SGVH's data collection and analysis.
+San Gabriel Valley Habitat for Humanity is a low-income housing and community revitalization nonprofit organization that relies on efficient survey automation and intutive data analysis to improve its outreach. Their current system lacks a complete, customizable, user friendly hub that quantifies impact, displays critical feedback, and merges existing data. Utilizing various Google services, we created a web application that will streamline SGVH's data collection and analysis to allow them to better track metrics and expand their services.
+
+## Project Links
+Demostration: LINK TO COME
+DevPost: LINK TO COME
+Slideshow: LINK TO COME
 
 ## Technologies Used
 | Technologies   | Usage |
@@ -25,10 +31,11 @@ San Gabriel Valley Habitat for Humanity is a homeless housing nonprofit organiza
 | Google Sheets   | Database  |
 | Google Sites    | Dashboard |
 
+## Service Integration and Architecture
 
 ## Tech Stack
 - Frontend: Looker Studio, Google Sites, Google Forms
-- Backend: Google Sheets, Google Sites
+- Backend: Google Sites
 - Database: Google Sheets
 - APIs: Microsoft Azure API
 <!-- Add/modify as needed -->
@@ -48,30 +55,28 @@ npm start
 2. SGVH has an overflow of existing survey papers and excel files that are unorganized and discombobulated. To combat this, we developed a python script that utilizes computer vision and a LLM to read existing paper surveys and integrate them into a combined database. The two main issues we ran into was identifying circled multiple-choice questions on the survey and retrieving consistent data from our LLM.
 3. Due to the nature of free-response forms, it was difficult to consolidate consistent data between our network of platforms. Before creating visuals on Looker Studio, we combined existing paper surveys and new online surveys into one main database while sectioning off the different survey responses. However, between reading multiple data inputs and the limits of the Google services, maintaining multiple databases which funneled into our visual dataset was a challenge.
 
-## Future Enhancements and Plans (NOT DONEEE)
-1. Fully developing a scanning tool (reading the circles)
-2. Scraping Google Sites (moving to an expandable)
-3. Ideas for more tools on the website
+## Future Enhancements and Plans
+1. Our current AI image-text extractor consistently reads the free response questions which is important time-saving mechanism for a busy nonprofit organization (~15-30sec/response & ~7-10 questions/form). The other questions 
+2. Pivoting to Google Sites allowed us to focus on designing a well-documented, robust, and maintable dashboard for our customer. We look to expand this platform by creating a coded web application that still maintains the qualities and features of our current hub, but would offer improved site customizability and scalibility. However, creating a new web application would be time-consuming and is less maintainble and secure than utilizing the safe, integrated systems of Google.
 
+## Meeting San Gabriel Valley Habitat for Humanity's Needs
+1. Centralized, easy-to-use data dashboard
+   1. Integrated Looker Studio visuals on website
+   2. Robust data filtering
+2. Online survey implementation integrated with dashboard
+   1. Completed online Google Forms structured from given paper surveys
+   2. Interconnected Architecture: Google Forms (survey) -> Google Sheets (database) -> Looker Studio (data visualization) -> Google Sites (website/dashboard)
+3. Data upload functionality and consolidated, simple database
+   1. AI PDF text extractor that can automatically inputs information into Google Form, saving crucial time.
+   2. Robust database that maintains a master sheet database and separate sheets for each survey
+   3. Utilizing the easy-to-use Google Sheets platform SGVH eliminates a  user learning curve; allowing to SGVH to focus on what they do best.
+  
 ## Your next steps
 1. ✅ Add everyone on your team to your GitHub repo like [this video posted in our Slack channel](https://opportunity-hack.slack.com/archives/C1Q6YHXQU/p1605657678139600)
 2. ✅ Create your DevPost project [like this video](https://youtu.be/vCa7QFFthfU?si=bzMQ91d8j3ZkOD03)
 3. ✅ Use the [2024 DevPost](https://opportunity-hack-2024-arizona.devpost.com) to submit your project
 4. ✅ Your DevPost final submission demo video should be 4 minutes or less
 5. ✅ Review the judging criteria on DevPost
-
-# What should your final Readme look like?
-Your readme should be a one-stop-shop for the judges to understand your project. It should include:
-- Team name
-- Team members
-- Slack channel
-- Problem statement
-- Tech stack
-- Link to your DevPost project
-- Link to your final demo video
-- Any other information you think is important
-
-You'll use this repo as your resume in the future, so make it shine! 🌟
 
 Examples of stellar readmes:
 - ✨ [2019 Team 3](https://github.com/2019-Arizona-Opportunity-Hack/Team-3)

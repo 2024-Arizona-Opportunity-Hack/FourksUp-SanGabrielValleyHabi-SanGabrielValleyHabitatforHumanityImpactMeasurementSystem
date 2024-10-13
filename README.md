@@ -89,6 +89,3 @@ Examples of stellar readmes:
 - ✨ [2020 Team 8](https://github.com/2020-opportunity-hack/Team-08)
 - ✨ [2020 Team 12](https://github.com/2020-opportunity-hack/Team-12)
 
-## Quick Links
-- [Problem Statement](https://ohack.dev/project/pcDVx7FAHQvZSViHbgS7)
-

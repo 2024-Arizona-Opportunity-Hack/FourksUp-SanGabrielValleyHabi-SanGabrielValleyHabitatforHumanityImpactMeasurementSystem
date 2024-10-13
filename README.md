@@ -1,7 +1,7 @@
 
 # FourksUp (Team #4)
 - Opportunity Hack Fall 2024
-- Slack Channel: [Team Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
+- [Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
 
 ## Hackers
 - Seth Rojas
@@ -10,12 +10,12 @@
 - Joshua Bunnell 
 
 ## About San Gabriel Valley Habitat for Humanity
-Website: [](https://sgvhabitat.org/)
+Website: https://sgvhabitat.org/
 
-SGVH Mission Statement: Seeking to put God's love into action, Habitat for Humanity brings people together to build homes, communities, and hope. We build strength and self-reliance through shelter.
+Organization Mission Statement: Seeking to put God's love into action, Habitat for Humanity brings people together to build homes, communities, and hope. We build strength and self-reliance through shelter.
 
-## Project Introduction
-San Gabriel Valley Habitat for Humanity is a low-income housing and community revitalization nonprofit organization that relies on efficient survey automation and intutive data analysis to improve its outreach. Their current system lacks a complete, customizable, user friendly hub that quantifies impact, displays critical feedback, and merges existing data. Utilizing various Google services, we created a web application that will streamline SGVH's data collection and analysis to allow them to better track metrics and expand their services.
+## Project Introduction 
+San Gabriel Valley Habitat for Humanity is a low-income housing and community revitalization nonprofit organization that relies on efficient survey automation and intutive data analysis to improve its outreach. Their current system lacks a complete, customizable, user friendly hub that quantifies impact, displays critical feedback, and merges existing data. Utilizing various Google services, we created a web application that will streamline SGVH's future data collection and analysis and allow them to better track metrics and expand their services.
 
 ## Project Links
 Demostration: LINK TO COME

@@ -20,10 +20,10 @@ San Gabriel Valley Habitat for Humanity is a homeless housing nonprofit organiza
 | Technologies   | Usage |
 | -------- | ------- |
 | Microsoft Azure AI, Python| REST API, Computer Vision  |
-| Looker Studio | Data visualization |
-| Google Forms    | User survey   |
+| Looker Studio | Data Visualization |
+| Google Forms    | User Surveys  |
 | Google Sheets   | Database  |
-| Google Sites    | Organization dashboard |
+| Google Sites    | Dashboard |
 
 
 ## Tech Stack

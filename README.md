@@ -35,7 +35,8 @@ San Gabriel Valley Habitat for Humanity is a low-income housing and community re
 
 ## Service Integration and Architecture
 By utilizing Google's robust technologies, we created a secure, integrated system that is scalable and intuitive for SGVH
-![Alt text](flowchartohacks.pdf "a title")
+
+![Design Flowchart](flowchartohacks.pdf "a title")
 ## Tech Stack
 - Frontend: Looker Studio, Google Sites, Google Forms
 - Backend: Google Sites

@@ -1,8 +1,8 @@
 
 # FourksUp (Team #4)
-- Opportunity Hack:   [Fall 2024](https://www.ohack.dev/hack/2024_fall)
+- Opportunity Hack: [  Fall 2024](https://www.ohack.dev/hack/2024_fall)
 - Non Profit Partner: [San Gabriel Valley Habitat for Humanity](https://sgvhabitat.org/)
-- Slack Channel:      [#FourksUp](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
+- Slack Channel: [     #FourksUp](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
 
 ## Hackers
 - Seth Rojas
@@ -33,7 +33,7 @@
 ## Service Integration and Architecture
 By utilizing Google's robust technologies, we created a secure, integrated system that is scalable and intuitive for SGVH
 
-![Design Flowchart](flowchartohacks.pdf "a title")
+![Design Flowchart](flowchartohacks.pdf)
 ## Tech Stack
 - Frontend: Looker Studio, Google Sites, Google Forms
 - Backend: Google Sites
@@ -42,17 +42,13 @@ By utilizing Google's robust technologies, we created a secure, integrated syste
 <!-- Add/modify as needed -->
 
 ## Getting Started
-
-```bash
-# Example commands
-git clone [your-repo-link]
-cd [your-repo-name]
-npm install
-npm start
-```
+1. Website
+   1. Click on the website link at the top
+2. Scan and upload feature
+   1. See Colab Notebook link at the top for a step by step tutorial
 
 ## Challenges
-1. Our largest challenge was pivoting from a coding a full-stack web application to utilizing Google's integrated services. After talks with our community partner and project mentors, we targeted their needs by developing an accessible, customizable, and dynamic application that is simple to maintain and understand. This also allowed us to focus on difficult background tools and maximize Google's free services.
+1. Our biggest challenge was pivoting from a coding a full-stack web application to utilizing Google's integrated services. After talks with our community partner and project mentors, we targeted their needs by developing an accessible, customizable, and dynamic application that is simple to maintain and understand. This also allowed us to focus on difficult background tools and maximize Google's free services.
 2. SGVH has an overflow of existing survey papers and excel files that are unorganized and discombobulated. To combat this, we developed a python script that utilizes computer vision and a LLM to read existing paper surveys and integrate them into a combined database. The two main issues we ran into was identifying circled multiple-choice questions on the survey and retrieving consistent data from our LLM.
 3. Due to the nature of free-response forms, it was difficult to consolidate consistent data between our network of platforms. Before creating visuals on Looker Studio, we combined existing paper surveys and new online surveys into one main database while sectioning off the different survey responses. However, between reading multiple data inputs and the limits of the Google services, maintaining multiple databases which funneled into our visual dataset was a challenge.
 

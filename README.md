@@ -9,7 +9,8 @@ Opportunity Hack Fall 2024
 - Joshua Bunnell 
 
 ## About San Gabriel Valley Habitat for Humanity
-Website: (https://sgvhabitat.org/)\
+Website: (https://sgvhabitat.org/)
+
 Mission statement: Seeking to put God's love into action, Habitat for Humanity brings people together to build homes, communities, and hope. We build strength and self-reliance through shelter.
 
 ## Project Introduction

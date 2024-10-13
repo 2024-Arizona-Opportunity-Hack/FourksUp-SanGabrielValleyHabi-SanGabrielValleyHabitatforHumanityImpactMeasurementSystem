@@ -2,12 +2,15 @@ import time
 import json
 import requests
 
-with open("creentials.json") as f:
+
+filename = "HomePreservationProgram.pdf"
+
+with open("credentials.json") as f:
     config = json.load(f)
 
 # Define your endpoint and API key
-endpoint = config["endpoint"]
-api_key = config["api_key"]
+endpoint = config["document-ai"]["endpoint"]
+api_key = config["document-ai"]["api-key"]
 
 # Define the URL for document analysis
 url = f"{endpoint}/formrecognizer/v2.1/layout/analyze"
@@ -19,7 +22,7 @@ headers = {
 }
 
 # Open and send the document (PDF or image)
-with open("test.pdf", "rb") as f:
+with open(filename, "rb") as f:
     data = f.read()
 
 # Make the request
@@ -44,7 +47,8 @@ if response.status_code == 202:
 
     # Once the status is "succeeded", you can get the results
     print("Processing complete!")
-    print(json.dumps(result, indent=2))
+    with open("output.json", "w") as f:
+        json.dump(result, f, indent=2)
 
 else:
     print(f"Error: {response.status_code}, {response.text}")

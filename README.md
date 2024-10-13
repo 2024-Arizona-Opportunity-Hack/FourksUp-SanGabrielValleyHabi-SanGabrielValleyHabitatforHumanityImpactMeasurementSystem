@@ -45,15 +45,14 @@ npm start
 
 ## Challenges
 1. Our largest challenge was pivoting from a coding a full-stack web applicaiton to utilizing Google's integrated services. After talks with our community partner and project mentors, we targeted their needs by developing an accesssible, customizable, and dynamic application that is simple to maintain and understand. This also allowed us to focus on difficult background tools and maximize Google's free services.
-2. SGVH has an overflow of existing survey paper and excel files that are uncentralized and discombobulated. To combat this, we developed a python script that utilizes computer vision and a LLM to read existing paper surveys and integrate them into a combined database. The two main issues we ran into was identifying circled multiple-choice questions on the survey and retrieving consistent data from our LLM
+2. SGVH has an overflow of existing survey papers and excel files that are unorganized and discombobulated. To combat this, we developed a python script that utilizes computer vision and a LLM to read existing paper surveys and integrate them into a combined database. The two main issues we ran into was identifying circled multiple-choice questions on the survey and retrieving consistent data from our LLM.
 3. Due to the nature of free-response forms, it was difficult to consolidate consistent data between our network of platforms. Before creating visuals on Looker Studio, we combined existing paper surveys and new online surveys into one main database while sectioning off the different survey responses. However, between reading multiple data inputs and the limits of the Google services, maintaining multiple databases which funneled into our visual dataset was a challenge.
 
 ## Future Enhancements and Plans (NOT DONEEE)
-1. Fully developing a scan
-2. Scraping Google Sites
-3. Ideas for tools
+1. Fully developing a scanning tool (reading the circles)
+2. Scraping Google Sites (moving to an expandable)
+3. Ideas for more tools on the website
 
-4. 
 ## Your next steps
 1. ✅ Add everyone on your team to your GitHub repo like [this video posted in our Slack channel](https://opportunity-hack.slack.com/archives/C1Q6YHXQU/p1605657678139600)
 2. ✅ Create your DevPost project [like this video](https://youtu.be/vCa7QFFthfU?si=bzMQ91d8j3ZkOD03)

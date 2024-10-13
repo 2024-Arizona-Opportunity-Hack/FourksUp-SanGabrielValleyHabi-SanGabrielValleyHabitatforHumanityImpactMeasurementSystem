@@ -1,8 +1,8 @@
 
 # FourksUp (Team #4)
-- Opportunity Hack: [  Fall 2024](https://www.ohack.dev/hack/2024_fall)
+- Opportunity Hack: [Fall 2024](https://www.ohack.dev/hack/2024_fall)
 - Non Profit Partner: [San Gabriel Valley Habitat for Humanity](https://sgvhabitat.org/)
-- Slack Channel: [     #FourksUp](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
+- Slack Channel: [#FourksUp](https://opportunity-hack.slack.com/app_redirect?channel=fourks-up)
 
 ## Hackers
 - Seth Rojas
@@ -18,7 +18,7 @@
 - [Colab Notebook AI Tool Demo](https://github.com/2024-Arizona-Opportunity-Hack/FourksUp-SanGabrielValleyHabi-SanGabrielValleyHabitatforHumanityImpactMeasurementSystem/blob/main/Extract_Image_Data.ipynb)
 - [Slideshow Demo](https://docs.google.com/presentation/d/1F9AuPJ5EkkQhXMyPwh69T-XTsrCUzgFj2Kidv3TpEaM/edit?usp=sharing)
 - [Project Demo]()
-- [DevPost]()
+- [DevPost](https://devpost.com/software/fourksup-san-gabriel-valley-habitat-for-humanity?ref_content=my-projects-tab&ref_feature=my_projects)
 
 
 ## Technologies Used

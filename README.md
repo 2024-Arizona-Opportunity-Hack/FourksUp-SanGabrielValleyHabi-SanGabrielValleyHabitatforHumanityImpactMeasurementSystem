@@ -14,7 +14,7 @@ Website: (https://sgvhabitat.org/)
 Mission statement: Seeking to put God's love into action, Habitat for Humanity brings people together to build homes, communities, and hope. We build strength and self-reliance through shelter.
 
 ## Project Introduction
-San Gabriel Valley Habitat for Humanity is a homeless housing nonprofit organization that relies on efficient survey automation and intutive data analysis to improve its outreach. Their current system lacks a complete, customizable, user friendly hub that quantifies impact, displays critical feedback, and merges existing data. Utilizing various Google services, we created a web application that will streamline SGVH's data analysis services and outreach.
+San Gabriel Valley Habitat for Humanity is a homeless housing nonprofit organization that relies on efficient survey automation and intutive data analysis to improve its outreach. Their current system lacks a complete, customizable, user friendly hub that quantifies impact, displays critical feedback, and merges existing data. Utilizing various Google services, we created a web application that will streamline SGVH's data collection and analysis.
 
 ## Technologies Used
 | Technologies   | Usage |

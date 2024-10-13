@@ -28,7 +28,7 @@ Slideshow: LINK TO COME
 ## Technologies Used
 | Technologies   | Usage |
 | -------- | ------- |
-| Microsoft Azure AI, Python| REST API, Computer Vision  |
+| Microsoft Azure AI, Python| API, Computer Vision, Text Extractor  |
 | Looker Studio | Data Visualization |
 | Google Forms    | User Surveys  |
 | Google Sheets   | Database  |
